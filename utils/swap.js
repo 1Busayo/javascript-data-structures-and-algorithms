@@ -1,5 +1,5 @@
 /**
- * Swap two elements in an array
+ * Swap two elements in an array,
  * Time Complexity O(1)
  * @param {number[]} array The array to search
  * @param {number} index1 The first index
