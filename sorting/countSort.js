@@ -1,7 +1,7 @@
 /**
  * Sort an array,
  * Time Complexity O(k+n)
- * Space Complexity O(1)
+ * Space Complexity O(k)
  * @param {number[]} array The array to sort
  * @returns {number []} Returns the sorted array
  * @example
