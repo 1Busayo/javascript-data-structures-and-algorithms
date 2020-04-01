@@ -1,4 +1,4 @@
-import { swap } from "./swap";
+import { swap } from "./utils/swap";
 
 /**
  * Sort an array,

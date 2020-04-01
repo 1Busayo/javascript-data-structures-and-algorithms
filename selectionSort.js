@@ -1,4 +1,4 @@
-import { swap } from "./swap";
+import { swap } from "./utils/swap";
 
 /**
  * Sort an array,
@@ -17,7 +17,7 @@ function selectionSort(array) {
   for (let i = 0; i < length; i++) {
     // set minimum to this position
     min = i;
-    // check the reat of the array to see of anyhting is smaller
+    // check the rest of the array to see of anything is smaller
     for (j = i + 1; j < length; j++) {
       if (array[j] < array[min]) {
         min = j;
